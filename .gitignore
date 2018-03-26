@@ -98,7 +98,4 @@ $RECYCLE.BIN/
 hs_err_pid*
 .gitignore
 .idea/
-ServletTest2.iml
-pom.xml
-src/
 target/
